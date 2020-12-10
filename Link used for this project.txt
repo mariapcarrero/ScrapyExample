@@ -1,0 +1,3 @@
+Link used for this project
+
+https://www.pluralsight.com/guides/implementing-web-scraping-with-scrapy
